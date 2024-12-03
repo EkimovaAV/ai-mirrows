@@ -84,7 +84,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td>3</td>
             <td> <a href="https://ai.myym.fun" target="_blank">https://ai.myym.fun</a>
                 <br> </td>
-            <td></td>
+            <td> chinese </td>
             <td>
                         🆓
                         💪
