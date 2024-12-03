@@ -65,7 +65,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🧰
             </td>
             <td>2024-07-23</td>
-            <td></td>
+            <td> good </td>
         </tr>
         <tr>
             <td>2</td>
@@ -75,16 +75,16 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
             <td>
                         🆓
                         💪
-                        🧰
+                        🧰 
             </td>
             <td>2024-06-23</td>
-            <td></td>
+            <td> didn't load </td>
         </tr>
         <tr>
             <td>3</td>
             <td> <a href="https://ai.myym.fun" target="_blank">https://ai.myym.fun</a>
                 <br> </td>
-            <td></td>
+            <td> chinese </td>
             <td>
                         🆓
                         💪
